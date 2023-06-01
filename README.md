@@ -1,5 +1,5 @@
 # STM32_WITH_HMC5883L
-Interfacing HMC5883L sensor with STM32 using I2C Interfacing
+Interfacing HMC5883L sensor with STM32L476RG Nucleo using I2C Interfacing
 
 I was stuck on this for too long, had to connect around 4K resistor to SCL line externally, even if internally it is pulled up.
 #	Wiring
